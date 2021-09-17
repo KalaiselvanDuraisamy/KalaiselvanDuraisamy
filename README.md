@@ -1,6 +1,6 @@
 - 👋 I’m @KalaiselvanDuraisamy
-- 👀 Interested in pyton development
-- 🌱 Currently learning machine learning and flask
+- 👀 Interested in Data science and Machine learning
+- 🌱 Currently learning machine learning
 - 📫 To reach me sent mail to kalaimkp15@gmail.com
 
 <!---
